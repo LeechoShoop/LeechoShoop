@@ -48,17 +48,6 @@ I am a software architect deeply passionate about pushing the boundaries of raw 
 
 ---
 
-## 📈 Activity & Insights
-
-<p align="left">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeechoShoop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeechoShoop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>"In code we trust, in memory safety we invest."</i>
 </p>
