@@ -1,53 +1,23 @@
-# Hi there, I'm a Systems & Network Engineer 👋
+# Johny
 
-<!-- Typing Animation Header -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=550&lines=Designing+network+protocols...;Building+low-level+systems...;Automating+with+Bash+%26+Python...;Optimizing+performance..." alt="Typing SVG" />
-  </a>
-</p>
+Biotech/bioengineering student building applied software for wet-lab and bioinformatics workflows. Background in systems programming: I bring that into biotech, aiming for fast, correct, native tools instead of another Python script that only runs on the author's machine.
 
----
+## What I'm doing
 
-## ⚡ About Me
+- Studying biotech/bioengineering, with prior hands-on lab experience in analytical methods.
+- Building open-source tools in Rust for problems I've actually run into at the bench: FASTQ quality control, lab instrument data parsing (HPLC/MS).
+- Coming from a systems programming background — P2P networking, cryptography, async runtimes: this is why my biotech tools tend to be native binaries, not notebooks.
 
-I am a software architect deeply passionate about pushing the boundaries of raw performance, deterministic memory safety, and decentralized network topologies. I focus on bridging the gap between hardware execution and robust software design.
+## Projects
 
-* 🌐 **Core Focus:** Custom network protocol design, socket programming, and low-level engineering.
-* 🛠️ **Systems Architecture:** Distributed systems, runtime internals, and high-performance computing.
-* ⚙️ **Automation & Scripting:** Creating robust tooling, environment provisioning, and automated pipelines.
-* 🔒 **Security:** Passive reconnaissance, vulnerability mitigation, and systems hardening.
+- **[fastq-qc-analyzer](#)** — FASTQ quality control tool for wet-lab users, native binary, no Python environment required.
+- **[lab-data-parser](#)** — Parses HPLC/mass-spec instrument exports into a unified format, with peak detection and visualization.
+- **[cogitator](#)** — Terminal-based web security toolkit (TLS interception proxy), an earlier project outside biotech: kept as a finished, scoped piece of systems work, not actively extended.
 
----
+## Stack
 
-## 🚀 Tech Stack & Tooling
-
-### Programming & Scripting Languages
-<p align="left">
-  <!-- Rust Badge -->
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <!-- C++ Badge -->
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <!-- C Badge -->
-  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <!-- GNU Bash Badge -->
-  <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
-
-### Domain Interests
-<p align="left">
-  <!-- Network Protocol Design Badge -->
-  <img src="https://img.shields.io/badge/Networking-Protocol_Design_%26_Sockets-blue?style=for-the-badge" alt="Network Protocol Design" />
-  <!-- Distributed Systems Badge -->
-  <img src="https://img.shields.io/badge/Systems-Distributed_Systems-orange?style=for-the-badge" alt="Distributed Systems" />
-  <!-- Concurrency Badge -->
-  <img src="https://img.shields.io/badge/Concurrency-Async_%26_Multithreading-purple?style=for-the-badge" alt="Concurrency" />
-</p>
+Rust, systems programming, applied bioinformatics tooling.
 
 ---
 
-<p align="center">
-  <i>"In code we trust, in memory safety we invest."</i>
-</p>
+Open to hearing about research groups, internships, or collaborators working at the intersection of software and wet-lab biology.
