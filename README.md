@@ -1,23 +1,24 @@
 # Johny
 
-Biotech/bioengineering student building applied software for wet-lab and bioinformatics workflows. Background in systems programming: I bring that into biotech, aiming for fast, correct, native tools instead of another Python script that only runs on the author's machine.
+I used to build post-quantum P2P networks and TLS-intercepting security tools. Now I build the same kind of software for a lab bench instead of a network stack — and it turns out most biotech tooling has the same problem blockchain had: too much software that only runs on the author's laptop.
 
 ## What I'm doing
 
 - Studying biotech/bioengineering, with prior hands-on lab experience in analytical methods.
-- Building open-source tools in Rust for problems I've actually run into at the bench: FASTQ quality control, lab instrument data parsing (HPLC/MS).
-- Coming from a systems programming background — P2P networking, cryptography, async runtimes: this is why my biotech tools tend to be native binaries, not notebooks.
+- Writing native Rust tools for problems I've actually hit at the bench: FASTQ quality control, HPLC/mass-spec data parsing.
+- Bringing a systems background into biotech: `cogitator` (TLS interception proxy) and `primus-project` (post-quantum P2P blockchain, ML-DSA-87 signatures, Noise_XX over QUIC) were the training ground. No unsafe code, no "works on my machine."
 
 ## Projects
 
-- **[fastq-qc-analyzer](#)** — FASTQ quality control tool for wet-lab users, native binary, no Python environment required.
-- **[lab-data-parser](#)** — Parses HPLC/mass-spec instrument exports into a unified format, with peak detection and visualization.
-- **[cogitator](#)** — Terminal-based web security toolkit (TLS interception proxy), an earlier project outside biotech: kept as a finished, scoped piece of systems work, not actively extended.
+- **[HPLC](#)** — parses HPLC/mass-spec instrument exports into one format, with automatic peak detection and visualization. Built after watching real lab data get mangled by inconsistent vendor exports.
+- **[fastq-qc-analyzer](#)** — FASTQ quality control as a native binary. No Python environment, no dependency hell, just double-click and go for a wet-lab user.
+- **[cogitator](#)** — terminal-based TLS MITM proxy and web security toolkit. Finished and scoped on purpose, not a work-in-progress.
+- **[primus-project](#)** — post-quantum Layer-1 blockchain: ML-DSA-87 signatures, Noise_XX P2P over QUIC, Merkle-Patricia Trie state. Solo research project — where the systems background comes from.
 
 ## Stack
 
-Rust, systems programming, applied bioinformatics tooling.
+Rust · systems programming · applied bioinformatics tooling
 
 ---
 
-Open to hearing about research groups, internships, or collaborators working at the intersection of software and wet-lab biology.
+Open to hearing from research groups, internships, or collaborators working at the intersection of software and wet-lab biology.
