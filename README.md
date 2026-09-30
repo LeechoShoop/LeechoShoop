@@ -11,7 +11,7 @@ I used to build post-quantum P2P networks and TLS-intercepting security tools. N
 ## Projects
 
 - **[HPLC](#)** - parses HPLC/mass-spec instrument exports into one format, with automatic peak detection and visualization. Built after watching real lab data get mangled by inconsistent vendor exports.
-- **[Halfyx](#)** - dependency-light pharmacokinetic (PK) modelling suite in Rust — analytical/numerical PK models, CLI, and GUI
+- **[Halflyx](#)** - dependency-light pharmacokinetic (PK) modelling suite in Rust — analytical/numerical PK models, CLI, and GUI
 - **[fastqc-rs](#)** - FASTQ quality control as a native binary. No Python environment, no dependency hell, just double-click and go for a wet-lab user.
 - **[cogitator](#)** - terminal-based TLS MITM proxy and web security toolkit. Finished and scoped on purpose, not a work-in-progress.
 - **[primus-project](#)** - post-quantum Layer-1 blockchain: ML-DSA-87 signatures, Noise_XX P2P over QUIC, Merkle-Patricia Trie state. Solo research project — where the systems background comes from.
